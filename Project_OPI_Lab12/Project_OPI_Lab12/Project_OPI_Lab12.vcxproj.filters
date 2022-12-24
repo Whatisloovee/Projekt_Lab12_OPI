@@ -18,7 +18,16 @@
     <ClCompile Include="main_file.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Шифр Цезаря\Шифр Цезаря\Модуль Шифр Цезаря.cpp">
+    <ClCompile Include="..\Calendar.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\module_12.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\module-9.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Модуль Шифр Цезаря.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

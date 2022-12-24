@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Шифр Цезаря\Шифр Цезаря\Модуль Шифр Цезаря.cpp" />
+    <ClCompile Include="..\Calendar.cpp" />
+    <ClCompile Include="..\module-9.cpp" />
+    <ClCompile Include="..\module_12.cpp" />
+    <ClCompile Include="..\Модуль Шифр Цезаря.cpp" />
     <ClCompile Include="main_file.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
