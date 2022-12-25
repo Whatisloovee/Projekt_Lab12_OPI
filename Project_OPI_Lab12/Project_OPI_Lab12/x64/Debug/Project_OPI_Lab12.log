@@ -1,2 +1,9 @@
-﻿  main_file.cpp
+﻿  Calendar.cpp
+  module-9.cpp
+  module_12.cpp
+  morzo.cpp
+C:\Users\Asus\Desktop\opi12\Projekt_Lab12_OPI\Project_OPI_Lab12\morzo.cpp(81,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\opi12\Projekt_Lab12_OPI\Project_OPI_Lab12\morzo.cpp(167,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Модуль Шифр Цезаря.cpp
+  Создание кода...
   Project_OPI_Lab12.vcxproj -> C:\Users\Asus\Desktop\opi12\Projekt_Lab12_OPI\Project_OPI_Lab12\x64\Debug\Project_OPI_Lab12.exe

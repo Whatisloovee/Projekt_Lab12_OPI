@@ -130,6 +130,7 @@
     <ClCompile Include="..\Calendar.cpp" />
     <ClCompile Include="..\module-9.cpp" />
     <ClCompile Include="..\module_12.cpp" />
+    <ClCompile Include="..\morzo.cpp" />
     <ClCompile Include="..\Модуль Шифр Цезаря.cpp" />
     <ClCompile Include="main_file.cpp" />
   </ItemGroup>

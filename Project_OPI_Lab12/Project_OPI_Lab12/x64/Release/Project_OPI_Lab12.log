@@ -1,0 +1,13 @@
+﻿  Calendar.cpp
+  module-9.cpp
+  module_12.cpp
+  morzo.cpp
+C:\Users\Asus\Desktop\opi12\Projekt_Lab12_OPI\Project_OPI_Lab12\morzo.cpp(81,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\opi12\Projekt_Lab12_OPI\Project_OPI_Lab12\morzo.cpp(167,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Модуль Шифр Цезаря.cpp
+  main_file.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project_OPI_Lab12.vcxproj -> C:\Users\Asus\Desktop\opi12\Projekt_Lab12_OPI\Project_OPI_Lab12\x64\Release\Project_OPI_Lab12.exe
